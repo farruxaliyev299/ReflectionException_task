@@ -1,0 +1,14 @@
+D:\C#\MessageSendingApp\MessageSendingApp\bin\Debug\netcoreapp3.1\MessageSendingApp.exe
+D:\C#\MessageSendingApp\MessageSendingApp\bin\Debug\netcoreapp3.1\MessageSendingApp.deps.json
+D:\C#\MessageSendingApp\MessageSendingApp\bin\Debug\netcoreapp3.1\MessageSendingApp.runtimeconfig.json
+D:\C#\MessageSendingApp\MessageSendingApp\bin\Debug\netcoreapp3.1\MessageSendingApp.runtimeconfig.dev.json
+D:\C#\MessageSendingApp\MessageSendingApp\bin\Debug\netcoreapp3.1\MessageSendingApp.dll
+D:\C#\MessageSendingApp\MessageSendingApp\bin\Debug\netcoreapp3.1\MessageSendingApp.pdb
+D:\C#\MessageSendingApp\MessageSendingApp\obj\Debug\netcoreapp3.1\MessageSendingApp.csproj.AssemblyReference.cache
+D:\C#\MessageSendingApp\MessageSendingApp\obj\Debug\netcoreapp3.1\MessageSendingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MessageSendingApp\MessageSendingApp\obj\Debug\netcoreapp3.1\MessageSendingApp.AssemblyInfoInputs.cache
+D:\C#\MessageSendingApp\MessageSendingApp\obj\Debug\netcoreapp3.1\MessageSendingApp.AssemblyInfo.cs
+D:\C#\MessageSendingApp\MessageSendingApp\obj\Debug\netcoreapp3.1\MessageSendingApp.csproj.CoreCompileInputs.cache
+D:\C#\MessageSendingApp\MessageSendingApp\obj\Debug\netcoreapp3.1\MessageSendingApp.dll
+D:\C#\MessageSendingApp\MessageSendingApp\obj\Debug\netcoreapp3.1\MessageSendingApp.pdb
+D:\C#\MessageSendingApp\MessageSendingApp\obj\Debug\netcoreapp3.1\MessageSendingApp.genruntimeconfig.cache

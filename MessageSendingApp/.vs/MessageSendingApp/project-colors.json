@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4041ed9-a747-41d1-9f6c-e327b0c4b300": {
+      "ProjectGuid": "e4041ed9-a747-41d1-9f6c-e327b0c4b300",
+      "DisplayName": "MessageSendingApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
